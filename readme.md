@@ -46,7 +46,7 @@ tkgm().get.il();
 #### Response
 
 ```js
-[
+const response = [
   {
     text: String,
     id: Number,
@@ -73,7 +73,7 @@ tkgm().get.ilce({ ilNo: 57 });
 #### Response
 
 ```js
-[
+const response = [
   {
     text: String,
     id: Number,
@@ -100,7 +100,7 @@ tkgm().get.mahalle({ ilceNo: 56044 });
 #### Response
 
 ```js
-[
+const response = [
   {
     text: String,
     id: Number,
